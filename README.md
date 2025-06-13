@@ -1,0 +1,2 @@
+# Golden-Age-Video-Games
+In this project, I analyzed global video game sales data using SQL to uncover insights into the history and trends of the gaming industry. Using a dataset of top-selling games since 1980, I explored metrics such as global and regional sales, best-selling titles, platform performance, and genre popularity over time. 
